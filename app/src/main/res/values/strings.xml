@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework2.1.3</string>
+    <string name="btn_start">Дата-время старта задачи: </string>
+    <string name="txt_start">Дата-время старта задачи: %1$s \n</string>
+    <string name="txt_end">Дата-время окончания задачи: %1$s</string>
+    <string name="btn_end">Дата-время окончания задачи: </string>
+    <string name="exc">ошибка</string>
+    <string name="ok">OK</string>
+</resources>
